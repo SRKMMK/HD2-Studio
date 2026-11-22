@@ -1,1 +1,1 @@
-69b8b81ac81dff508e34b38f8d07564ce1c10d50a4070598ff782048f7f53439  HD2-Studio-Windows-Setup-r8.zip
+69b8b81ac81dff508e34b38f8d07564ce1c10d50a4070598ff782048f7f53439  HD2-Studio-Windows-DevPreview-0.3.0.zip

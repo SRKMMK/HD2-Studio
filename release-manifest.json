@@ -1,10 +1,10 @@
 {
-  "release_tag": "r8",
-  "release_status": "official_baseline_selected_by_user; not_published",
-  "release_title": "HD2 摄影台 r8 | Windows 首个正式版",
+  "release_tag": "v0.3.0-dev.1",
+  "release_status": "development_preview_draft; not_published",
+  "release_title": "HD2 摄影台 · 开发预览版 0.3",
   "audit_date": "2026-11-22",
   "artifact": {
-    "filename": "HD2-Studio-Windows-Setup-r8.zip",
+    "filename": "HD2-Studio-Windows-DevPreview-0.3.0.zip",
     "size": 735734618,
     "sha256": "69b8b81ac81dff508e34b38f8d07564ce1c10d50a4070598ff782048f7f53439",
     "root_directory": "HD2-Test"
@@ -208,9 +208,21 @@
     "full_catalog_animation_rebind_tests"
   ],
   "publication": {
-    "repository": null,
+    "repository": "https://github.com/SRKMMK/HD2-Studio",
     "source_commit": null,
     "tag_created": false,
-    "release_created": false
+    "release_created": true,
+    "release_draft": true
+  },
+  "prerelease": true,
+  "source_artifact_filename": "HD2-Studio-Windows-Setup-r8.zip",
+  "user_reported_environment": {
+    "cpu": "Intel Core i7-9750H",
+    "ram_gb": 16,
+    "gpu": "GTX 1660 Ti",
+    "first_preparation_minutes": "30-40",
+    "prepared_directory_bytes": 29101896489,
+    "displayed_prepared_directory_gb": 27.1,
+    "render_feedback": "4K output took a long time; no measured duration supplied"
   }
 }
