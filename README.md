@@ -2,13 +2,13 @@
 
 给自己的潜兵拍张照片。支持《绝地潜兵 2》装备搭配、多角色、动作、背景、灯光和 PNG 输出。
 
-**当前发布准备：开发预览版 0.3（Windows）。** 功能和兼容性仍在完善，欢迎试用反馈。正式下载以本仓库已经发布的 Release 为准。
+**当前版本：开发预览版 0.3（Windows）。** 功能和兼容性仍在完善，欢迎试用反馈。正式下载以本仓库已经发布的 Release 为准。
 
 ![双人互动成品展示](images/gallery/04-handshake.png)
 
 ## 下载和安装
 
-进入 [Releases](https://github.com/SRKMMK/HD2-Studio/releases)，下载 `HD2-Studio-Windows-DevPreview-0.3.0.zip`。请使用安装附件，自动生成的 Source code 压缩包是文档仓库快照。
+进入 [开发预览版 0.3 下载页](https://github.com/SRKMMK/HD2-Studio/releases/tag/v0.3.0-dev.1)，下载 `HD2-Studio-Windows-DevPreview-0.3.0.zip`。请使用安装附件，自动生成的 Source code 压缩包是文档仓库快照。
 
 预先安装游戏与 Windows 版 Blender，预留约 30 GiB。本包完整解压后，进入 `HD2-Test`，双击 `启动摄影台.cmd`，选择游戏根目录及 Blender。首次准备完成后会自动打开摄影台并创建桌面入口。
 
