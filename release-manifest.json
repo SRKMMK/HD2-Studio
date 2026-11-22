@@ -1,0 +1,216 @@
+{
+  "release_tag": "r8",
+  "release_status": "official_baseline_selected_by_user; not_published",
+  "release_title": "HD2 摄影台 r8 | Windows 首个正式版",
+  "audit_date": "2026-11-22",
+  "artifact": {
+    "filename": "HD2-Studio-Windows-Setup-r8.zip",
+    "size": 735734618,
+    "sha256": "69b8b81ac81dff508e34b38f8d07564ce1c10d50a4070598ff782048f7f53439",
+    "root_directory": "HD2-Test"
+  },
+  "fresh_verification": {
+    "zip_crc": "passed",
+    "zip_entries": 503,
+    "zip_paths": "passed",
+    "payload_archive_sha256": "passed",
+    "payload_files_sha256_checked": 2864,
+    "outer_packed_resources_sha256_checked": 460
+  },
+  "catalog": {
+    "entries": 373,
+    "slots": {
+      "armor": 174,
+      "helmet": 114,
+      "cape": 85
+    },
+    "pending": [
+      "voidwalker",
+      "fs05-stocky",
+      "fs05-slim"
+    ]
+  },
+  "bundled_code": {
+    "hd2_studio/__init__.py": {
+      "size": 32314,
+      "sha256": "f311f4384447368b8f437c23216e26c85044ace6d736a99e3e8a5de2b686878c"
+    },
+    "hd2_studio/action_library.py": {
+      "size": 873,
+      "sha256": "42c4745c95816d8170f5204e6c4881ee855ec3a7131b42daa3fc0f85c97a5f83"
+    },
+    "hd2_studio/animation.py": {
+      "size": 36848,
+      "sha256": "b2df55dba0626cfc9dccd1cd80a5f8949d93f39f3fcd0b94a4048a43e690118e"
+    },
+    "hd2_studio/assets.py": {
+      "size": 9516,
+      "sha256": "487da473fb22656809df3f0eda948ac2f5ad5bc67dc862796788ee2d3ab9cb36"
+    },
+    "hd2_studio/availability_cache.py": {
+      "size": 3468,
+      "sha256": "a117cc26b7a1c67a4d36df1dbf56a0adf19493a58a1ff2ceccac28e606bbf93e"
+    },
+    "hd2_studio/backgrounds.py": {
+      "size": 15803,
+      "sha256": "fc4f2ce4e8b4ccd527db04f270f0829bee3f3ccb8227b0cbcef7f3e384f8a913"
+    },
+    "hd2_studio/cape.py": {
+      "size": 1446,
+      "sha256": "54431281d6746adb9f730d5ffbc19d8ec861b2ed95cad3ae28606ccf389bd273"
+    },
+    "hd2_studio/capture.py": {
+      "size": 6141,
+      "sha256": "0794eeeed804fbc36430ed481be05714ff55b9b7bd79072f1e9e2d75de7758e1"
+    },
+    "hd2_studio/character_ui.py": {
+      "size": 29353,
+      "sha256": "67761da860242f2e9ed078ea7449888c611c5b9ebeb0c88cdcb21844539c4ac2"
+    },
+    "hd2_studio/characters.py": {
+      "size": 17847,
+      "sha256": "6326b2e563043b69981c8ccb796994ffcc115a46b19fc850c8100e988e3304cb"
+    },
+    "hd2_studio/equipment_browser.py": {
+      "size": 16189,
+      "sha256": "6eab11487d46691ad50d21e3c7e761b75158bf391a6c3ccc82fbea6f273afb6b"
+    },
+    "hd2_studio/interactions.py": {
+      "size": 7771,
+      "sha256": "1e48a6fbfb810caab3135aa96b231e27d92445998b010c550b3afba0e47403bc"
+    },
+    "hd2_studio/library.py": {
+      "size": 7667,
+      "sha256": "ee95a82e3a2f12b44a07b814019f02603d81a9078935851e3d51e497fd360898"
+    },
+    "hd2_studio/navigation.py": {
+      "size": 6815,
+      "sha256": "536f46807e297e78f373d15dd76c875b6bd440447933df0aae751de23b34c9bc"
+    },
+    "hd2_studio/outfits.py": {
+      "size": 7138,
+      "sha256": "3dcca85f76c0c46353c1f81fabca436e1bef18eff7ee67e254cae960c0c86ac7"
+    },
+    "hd2_studio/photography.py": {
+      "size": 26267,
+      "sha256": "8b3cf04471ea09606cbe2046ae81058366d2fd5a032579afcaa8b2d41f419ced"
+    },
+    "hd2_studio/poses.py": {
+      "size": 7406,
+      "sha256": "8173194da9124b691946b9c96cdb2702316b28886f084058da25c30cccb4b926"
+    },
+    "hd2_studio/previews.py": {
+      "size": 1478,
+      "sha256": "c90aecc0bd5e37f641539b05dea142a250cc8ac6954e8bf5f48b3dbbc679ffc6"
+    },
+    "hd2_studio/shots.py": {
+      "size": 2869,
+      "sha256": "114239875ea869cea073badb8a3025f25d7afe8fba8b64d4ccb98a118f8b1683"
+    },
+    "hd2_studio/studio_ui.py": {
+      "size": 22805,
+      "sha256": "fe4618d1f5bd534ae48968620cf944b731e25c23fb9b23a432880c2cb350f067"
+    },
+    "hd2_studio/workspace.py": {
+      "size": 12758,
+      "sha256": "c79f1a4f1505710c02a7dd7fc2b360705bbeeea53396586db0e60f03bded939e"
+    },
+    "intake/__init__.py": {
+      "size": 84,
+      "sha256": "4152d5e1babcd062d470c385e4084234cff6a5624a367e42f9d5b59729030903"
+    },
+    "intake/common.py": {
+      "size": 3328,
+      "sha256": "327f85f3d3815646d8c2cb944b0504b23683a812ad26e0a1b97441dabc5157b6"
+    },
+    "scripts/launch.py": {
+      "size": 2311,
+      "sha256": "e6092dbac85ba766f6b9f8251d085eb91178f5c437e6716f8e1178702878bf11"
+    },
+    "scripts/prepare_animation.py": {
+      "size": 9709,
+      "sha256": "e9f3336de5dd01d8b4b5f62ed97d61fb8f976e9288467e901287dcd190201e49"
+    },
+    "staging/first-use-pilot/run.py": {
+      "size": 12995,
+      "sha256": "e1d235133fcd57b24b85ee38ecf043d638ebd359ea3879b9ed724e52620a0fb5"
+    },
+    "staging/first-use-pilot/equipment_source.py": {
+      "size": 8177,
+      "sha256": "b3d7e91024c9f5cb88021360d9396eb4c3a3c5d065875453d049645033c093e3"
+    },
+    "staging/first-use-pilot/batch_worker.py": {
+      "size": 2449,
+      "sha256": "52bc57d6c4477956d0648e155454fc619375fe22b241d663055e0a3c7273d6dd"
+    },
+    "staging/first-use-pilot/packed_resources.py": {
+      "size": 2470,
+      "sha256": "8164187bde3cb5171816f479b82ad2852f8e53d79507fbbcc18ca0e35faa039d"
+    },
+    "staging/first-use-pilot/build.py": {
+      "size": 9192,
+      "sha256": "fa05e831096f5a8b6598b9d89337bc70499f20f0e5a5915ae532a09dc65510fc"
+    },
+    "staging/first-use-pilot/verify.py": {
+      "size": 9091,
+      "sha256": "c74fb9566d161cd77cb4402b544b4cdb5e50852c52ea97df8d854e1968868d96"
+    },
+    "staging/first-use-pilot/verify_catalog.py": {
+      "size": 4978,
+      "sha256": "46575dd91afb8a7b14b149238d96469e482361901015c56119b942e0c2cc4447"
+    },
+    "unpack_payload.py": {
+      "size": 4192,
+      "sha256": "169b28b6e7b41a609803690273b54e857f4f01c923c6cd628ce3d47bb36a6d5f"
+    },
+    "pilot.ps1": {
+      "size": 12946,
+      "sha256": "e5225e40da343eab76214b6971a95fa03e67791258d39cb6e49657220e2e8a5c"
+    },
+    "desktop-shortcut.ps1": {
+      "size": 2628,
+      "sha256": "b4831f3e13d8e70c07ed34adb4f82e25c6d0b228d83ec059c96e4b5258e3abf4"
+    },
+    "启动摄影台.cmd": {
+      "size": 123,
+      "sha256": "5731ffe68a0a40da8141a2c72b1f911a383292e988a085cd20c758114c24e068"
+    },
+    "创建桌面入口.cmd": {
+      "size": 122,
+      "sha256": "17def6f7fd0afeaa9bf166b1442b3b0b12e7a5460d68dc22d9d7e7babffc11b4"
+    },
+    "一键清空.cmd": {
+      "size": 109,
+      "sha256": "b636d71d5729956e838f2873d365570f9d0ff9d06accb186555d1b31e886ba6e"
+    }
+  },
+  "bundled_notice_paths": [
+    "tools/filediver/LICENSE",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/datafiles/assets/LICENSE",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/datafiles/studiolights/matcap/license.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/datafiles/studiolights/world/license.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/Apache2-license.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/BSD-3-Clause-license.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/MIT-license.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/readme.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/SPDX-license-identifiers.txt",
+    "tools/filediver/scripts_dist/hd2_accurate_blender_importer/_internal/bpy/4.5/scripts/addons_core/cycles/license/Zlib-license.txt"
+  ],
+  "historical_evidence": "staging/package-update-20261122/r8-result.json",
+  "historical_environment": {
+    "blender": "5.3.0",
+    "game_build": "26568081"
+  },
+  "not_rerun": [
+    "installer_tests",
+    "native_window_acceptance",
+    "fresh_full_game_extraction",
+    "full_catalog_animation_rebind_tests"
+  ],
+  "publication": {
+    "repository": null,
+    "source_commit": null,
+    "tag_created": false,
+    "release_created": false
+  }
+}
